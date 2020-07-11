@@ -1,0 +1,136 @@
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\bin\Debug\ringo.exe.config
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\bin\Debug\ringo.exe
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\bin\Debug\ringo.pdb
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.csprojAssemblyReference.cache
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.Properties.Resources.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.csproj.GenerateResource.cache
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.csproj.CoreCompileInputs.cache
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.exe
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.pdb
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.client.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.login.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.adminums.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\bin\Debug\en\ringo.resources.dll
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\bin\Debug\ja\ringo.resources.dll
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\bin\Debug\zh-Hans\ringo.resources.dll
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\bin\Debug\zh-Hant\ringo.resources.dll
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.login.en.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.login.ja.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.login.zh-Hans.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.login.zh-Hant.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\en\ringo.resources.dll
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ja\ringo.resources.dll
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\zh-Hans\ringo.resources.dll
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\zh-Hant\ringo.resources.dll
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.register.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.register.en.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.register.ja.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.register.zh-Hans.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.register.zh-Hant.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.client.en.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.client.ja.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.client.zh-Hans.resources
+C:\Users\AKIRA AMEMIYA\Desktop\ringo\ringo\obj\Debug\ringo.client.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\bin\Debug\ringo.exe.config
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\bin\Debug\ringo.exe
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\bin\Debug\ringo.pdb
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\bin\Debug\en\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\bin\Debug\ja\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\bin\Debug\zh-Hans\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\bin\Debug\zh-Hant\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.admindbms.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.client.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.forgotpw.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.login.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.register.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.Properties.Resources.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.admindbms.en.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.admindbms.ja.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.admindbms.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.admindbms.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.client.en.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.client.ja.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.client.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.client.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.login.en.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.login.ja.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.login.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.login.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.register.en.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.register.ja.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.register.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.register.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.csproj.GenerateResource.cache
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.csproj.CoreCompileInputs.cache
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\en\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ja\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\zh-Hans\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\zh-Hant\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.exe
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.pdb
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.forgotpw.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.forgotpw.en.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.forgotpw.ja.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.forgotpw.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.changepw.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.delete.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.changepw.en.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.changepw.ja.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.changepw.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.changepw.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.delete.en.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.delete.ja.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.delete.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\ringo\ringo\obj\Debug\ringo.delete.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\bin\Debug\ringo.exe.config
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\bin\Debug\ringo.exe
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\bin\Debug\ringo.pdb
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\bin\Debug\en\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\bin\Debug\ja\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\bin\Debug\zh-Hans\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\bin\Debug\zh-Hant\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.csprojAssemblyReference.cache
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.admindbms.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.changepw.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.client.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.delete.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.forgotpw.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.login.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.register.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.Properties.Resources.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.admindbms.en.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.admindbms.ja.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.admindbms.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.admindbms.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.changepw.en.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.changepw.ja.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.changepw.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.changepw.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.client.en.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.client.ja.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.client.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.client.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.delete.en.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.delete.ja.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.delete.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.delete.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.forgotpw.en.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.forgotpw.ja.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.forgotpw.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.forgotpw.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.login.en.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.login.ja.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.login.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.login.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.register.en.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.register.ja.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.register.zh-Hans.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.register.zh-Hant.resources
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.csproj.GenerateResource.cache
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.csproj.CoreCompileInputs.cache
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\en\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ja\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\zh-Hans\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\zh-Hant\ringo.resources.dll
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.exe
+C:\Users\PockyEtWolf\Desktop\课设\201810311190_张雯\程序源码（vs2019）\ringo\ringo\obj\Debug\ringo.pdb

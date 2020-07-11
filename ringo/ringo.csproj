@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{99943AF1-C92E-4A8B-8C47-D4B8FE39A64E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ringo</RootNamespace>
+    <AssemblyName>ringo</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="form\changepw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\changepw.Designer.cs">
+      <DependentUpon>changepw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\client.Designer.cs">
+      <DependentUpon>client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\admindbms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\admindbms.Designer.cs">
+      <DependentUpon>admindbms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\deleteaccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\deleteaccount.Designer.cs">
+      <DependentUpon>deleteaccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\forgotpw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\forgotpw.Designer.cs">
+      <DependentUpon>forgotpw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="class\multilang.cs" />
+    <Compile Include="form\register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\register.Designer.cs">
+      <DependentUpon>register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="class\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="class\randomcode.cs" />
+    <EmbeddedResource Include="form\admindbms.en.resx">
+      <DependentUpon>admindbms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\admindbms.ja.resx">
+      <DependentUpon>admindbms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\admindbms.resx">
+      <DependentUpon>admindbms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\admindbms.zh-Hans.resx">
+      <DependentUpon>admindbms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\admindbms.zh-Hant.resx">
+      <DependentUpon>admindbms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\changepw.en.resx">
+      <DependentUpon>changepw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\changepw.ja.resx">
+      <DependentUpon>changepw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\changepw.resx">
+      <DependentUpon>changepw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\changepw.zh-Hans.resx">
+      <DependentUpon>changepw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\changepw.zh-Hant.resx">
+      <DependentUpon>changepw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\client.en.resx">
+      <DependentUpon>client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\client.ja.resx">
+      <DependentUpon>client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\client.resx">
+      <DependentUpon>client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\client.zh-Hans.resx">
+      <DependentUpon>client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\client.zh-Hant.resx">
+      <DependentUpon>client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\deleteaccount.en.resx">
+      <DependentUpon>deleteaccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\deleteaccount.ja.resx">
+      <DependentUpon>deleteaccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\deleteaccount.resx">
+      <DependentUpon>deleteaccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\deleteaccount.zh-Hans.resx">
+      <DependentUpon>deleteaccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\deleteaccount.zh-Hant.resx">
+      <DependentUpon>deleteaccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\forgotpw.en.resx">
+      <DependentUpon>forgotpw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\forgotpw.ja.resx">
+      <DependentUpon>forgotpw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\forgotpw.resx">
+      <DependentUpon>forgotpw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\forgotpw.zh-Hans.resx">
+      <DependentUpon>forgotpw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\forgotpw.zh-Hant.resx">
+      <DependentUpon>forgotpw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\login.en.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\login.ja.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\login.zh-Hans.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\login.zh-Hant.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\register.en.resx">
+      <DependentUpon>register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\register.ja.resx">
+      <DependentUpon>register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\register.resx">
+      <DependentUpon>register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="form\register.zh-Hans.resx">
+      <DependentUpon>register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\register.zh-Hant.resx">
+      <DependentUpon>register.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
